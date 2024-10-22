@@ -1,0 +1,47 @@
+.Footer{
+    background-color: #f7f7f8;
+   
+   
+
+}
+.Footer-content{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid gray; */
+    padding: 50px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #e4e4ed;
+
+
+    li{
+       list-style: none;
+       line-height: 2.0;
+       
+    }
+
+    a{
+        text-align:justify;
+        color: black;
+        font-size: 16px;
+    
+    }
+    h2{
+        text-align: justify;
+        margin-left: 20px;
+        margin-bottom: 30px;
+    }
+
+
+    .Apps{
+        margin-top: 30px;
+    }
+}    
+a:hover{
+    color: blue;
+}
+
+#Footer-p{
+   padding: 50px;
+    margin-top: 00px;
+    
+}

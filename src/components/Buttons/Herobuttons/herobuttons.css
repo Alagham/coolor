@@ -1,0 +1,30 @@
+main{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#start{
+    width: 250px;
+    height: 50px;
+    background-color: #0066ff;
+    border-radius:10px;
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 220px;
+    margin-bottom: 15px;
+}
+
+#explore{
+    width: 250px;
+    height: 50px;
+    background: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius:10px;
+    border: 2px solid #eeeeee;
+    margin-left: 220px;
+    margin-bottom: 25px;
+}

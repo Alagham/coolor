@@ -1,0 +1,29 @@
+header{
+    /* border: 2px solid brown; */
+    display: flex;
+    flex-wrap: wrap;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid#eeeeee;
+    padding: 10px;
+}
+var{
+    border-left: 2px solid #eeeeee;
+    height: 10px;
+    margin-left: 30px;
+}
+a{
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+#Tools{
+    color:black;
+    font-weight: light;
+}
+
+#Go-pro{
+    color: hotpink;
+    font-weight: light;
+}

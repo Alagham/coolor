@@ -1,0 +1,31 @@
+.comp-details{
+    /* border: 2px solid firebrick; */
+    margin: 100px;
+
+
+    img{
+        width: 60px;
+        
+        
+    }
+
+     img:hover {
+        transform: scale(1.2); 
+        transition: transform 0.3s ease;
+    } 
+}
+
+
+.comp-img{
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 60px; 
+    justify-content: center;
+    
+}
+
+#comps-p{
+    text-align: center;
+    font-size: 25px ;
+    margin-bottom: 70px;
+}

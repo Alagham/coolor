@@ -1,0 +1,42 @@
+h1{
+    font-size: 450%;
+    font-weight:900;
+    width: 90%;
+    text-align: center;
+    word-spacing: -15px;
+    line-height: 1;
+    margin-top: 30px;
+    z-index: 1;
+}
+
+#hero-content{
+    width: 55%;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 30px;
+    z-index: 1;
+}
+main{
+    margin-top: 50px;
+}
+
+#heroimg{
+    width: 250px;
+    /*height: 40px; */
+    margin-left: 220px;
+    
+}
+
+#hero2{
+    width:130%;
+    margin-top:150px;
+    margin-left: -30%;
+}
+
+.soft{
+    box-sizing: border-box;
+    display: flex;
+    /* border: 2px solid green; */
+    /* flex-wrap: wrap; */
+}
